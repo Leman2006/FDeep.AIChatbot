@@ -36,7 +36,7 @@ Bu özellik, veri güvenliğine öncelik veren büyük ölçekli şirketler içi
 1. Ortam Kurulumu
 
 bash
-git clone https://github.com/feyzakir/FDeep.AIChatbot.git
+git clone https://github.com/Leman2006/FDeep.AIChatbot.git
 cd FDeep.AIChatbot
 python -m venv .venv
 .venv\Scripts\activate  # MacOS/Linux: source .venv/bin/activate
